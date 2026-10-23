@@ -58,6 +58,7 @@ A skill is a `SKILL.md` file that tells an AI agent how to do something. When yo
 
 | Skill | Description |
 |-------|-------------|
+| [agent-browser](skills/agent-browser) | Browser automation with Mac mini preference and automatic local fallback |
 | [scrape](skills/orthogonal-scrape) | Scrape websites, extract structured data, automate browsers |
 | [notte](skills/orthogonal-notte) | AI-powered browser automation, no selectors needed |
 | [olostep](skills/orthogonal-olostep) | Web scraping, crawling, and AI answer extraction at scale |
