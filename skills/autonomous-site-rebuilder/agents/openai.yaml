@@ -1,0 +1,4 @@
+interface:
+  display_name: "Autonomous Site Rebuilder"
+  short_description: "Run the autonomous crawl and repair loop"
+  default_prompt: "Use $autonomous-site-rebuilder to crawl, rebuild, browser-audit, and repair a multi-page website autonomously."

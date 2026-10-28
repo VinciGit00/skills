@@ -1,0 +1,4 @@
+interface:
+  display_name: "Training Loop Progress Logging"
+  short_description: "Add useful progress logs to model training loops"
+  default_prompt: "Use $training-loop-progress-logging to add concise progress output to this training loop."

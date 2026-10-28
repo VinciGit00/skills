@@ -1,0 +1,4 @@
+interface:
+  display_name: "Scale Training Datasets"
+  short_description: "Safely enlarge datasets used for model training"
+  default_prompt: "Use $scale-training-datasets to enlarge this training dataset and verify the resulting splits."

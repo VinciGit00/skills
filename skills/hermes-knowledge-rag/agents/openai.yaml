@@ -1,0 +1,4 @@
+interface:
+  display_name: "Hermes Knowledge RAG"
+  short_description: "Risposte dai documenti Hermes aggiornati ogni giorno"
+  default_prompt: "Usa $hermes-knowledge-rag per rispondere consultando la mia knowledge base."

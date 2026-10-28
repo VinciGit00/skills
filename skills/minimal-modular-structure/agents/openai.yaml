@@ -1,0 +1,4 @@
+interface:
+  display_name: "Minimal Modular Structure"
+  short_description: "Keep codebases minimal, cohesive, and genuinely modular"
+  default_prompt: "Refactor this codebase into the smallest clear modular structure, retaining only necessary files."
